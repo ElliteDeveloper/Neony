@@ -1,0 +1,51 @@
+[
+  {
+    "purchase": 1,
+    "name": "Free",
+    "path": "01_Free",
+    "count": 16,
+    "sku":""
+  },
+  {
+    "purchase": 0,
+    "name": "Food",
+    "path": "02_Food",
+    "count": 16,
+    "sku":"sticker_1"
+  },
+  {
+    "purchase": 0,
+    "name": "Vehicle",
+    "path": "03_Vehicle",
+    "count": 16,
+    "sku":"sticker_2"
+  },
+  {
+    "purchase": 0,
+    "name": "Emoji",
+    "path": "04_Emoji",
+    "count": 20,
+    "sku":"sticker_3"
+  },
+  {
+    "purchase": 0,
+    "name": "Animal",
+    "path": "05_Animal",
+    "count": 16,
+    "sku":"sticker_4"
+  },
+  {
+    "purchase": 0,
+    "name": "Plant",
+    "path": "06_Plant",
+    "count": 16,
+    "sku":"sticker_p"
+  },
+  {
+    "purchase": 0,
+    "name": "Christmas",
+    "path": "07_Christmas",
+    "count": 16,
+    "sku":"sticker_c"
+  }
+]

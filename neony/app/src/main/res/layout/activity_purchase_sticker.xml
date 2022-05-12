@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorDarkestGrey"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/back_button"
+            android:padding="20dp"
+            android:src="@drawable/ic_back" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_cate"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/sticker_image"
+        android:scaleType="fitCenter" />
+
+    <TextView
+        android:id="@+id/txt_cate"
+        style="@style/TextLargeWithWhite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txt_price"
+        style="@style/TextSmallWithGray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        style="@style/TextMainDarkGrey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/sticker_comment"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/img_stickers"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/sticker_list_image"
+        android:padding="15dp"
+        android:scaleType="fitCenter" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/txt_buy"
+            style="@style/ButtonWhiteBorder"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPink"
+            android:padding="15dp"
+            android:textSize="16sp"
+            android:text="@string/buy"
+            android:textStyle="bold"/>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorWhite">
+            <ProgressBar
+                android:id="@+id/progress_view"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerInParent="true"
+                android:visibility="invisible"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:id="@+id/layout_try"
+                android:orientation="vertical"
+                android:gravity="center">
+                <TextView
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/free_try"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAlmostBlack"
+                    android:textAllCaps="true"/>
+                <TextView
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:textColor="@color/colorAlmostBlack"
+                    android:text="@string/ads"
+                    android:textAllCaps="true"
+                    />
+            </LinearLayout>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

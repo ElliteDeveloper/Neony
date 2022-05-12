@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">NEONY</string>
+<string name="today_neon">NEONY Instagram</string>
+<string name="choose_background">bir arka plan seçin</string>
+<string name="theme_image">Tema resmi</string>
+<string name="your_photo">Benim fotoğrafım</string>
+<string name="color">Renk</string>
+<string name="all_photos">Tüm fotoğraflar</string>
+<string name="camera">Kamera</string>
+<string name="screenshots">Ekran görüntüleri</string>
+<string name="download">İndir</string>
+<string name="neon">NEONY</string>
+<string name="num_photos">%d Resimler</string>
+<string name="tab_to_views_albums">albümlerinizi görüntülemek için dokunun</string>
+<string name="choose_ratio">seç oranı</string>
+<string name="one_one">1:1</string>
+<string name="four_five">4:5</string>
+<string name="custom">görenek</string>
+<string name="five_four">5:4</string>
+<string name="square">Kare</string>
+<string name="for_instagram">Dikey</string>
+<string name="for_five_four">Yatay</string>
+<string name="free_size_or_original_size">Ücretsiz Boyut veya Orijinal Boyut</string>
+<string name="info">Bilgi</string>
+<string name="about">hakkında</string>
+<string name="version">Sürüm% s</string>
+<string name="credits">Kredi</string>
+<string name="credit_design">Daniel Lee tarafından tasarlanan</string>
+<string name="credits_code">Zhang, H. tarafından kodlanmış</string>
+<string name="contact">Temas</string>
+<string name="contact_email">daniel.ptnst@gmail.com</string>
+<string name="copyright">Telif ⓒ PATER NOSTER. Tüm hakları Saklıdır.</string>
+<string name="rating">Değerlendirme</string>
+<string name="recommend_friend">Pay</string>
+<string name="open_source_library">yazı Lisans</string>
+<string name="recomment_title">Android için NEONY deneyin!</string>
+<string name="recomment_content">Android için NEONY kullanıyorum ve tavsiye ederim. Buraya tıklayın: %s</string>
+<string name="crop">ekin</string>
+<string name="reset">Reset</string>
+    <string name="search_here">Search here (In English)</string>
+<string name="save">Kayıt etmek</string>
+<string name="find_text">Metin bul</string>
+<string name="done">tamam</string>
+<string name="text_here">Metin girmek için dokunun</string>
+<string name="background">Arka fon</string>
+<string name="font">yazı</string>
+<string name="text_effect">Metin \nŞekli</string>
+<string name="neon_effect">Neon \nEtkisi</string>
+<string name="delete">silmek</string>
+<string name="sticker">Etiket</string>
+<string name="bright">Parlaklık</string>
+<string name="view_all">Hepsini gör</string>
+<string name="alignment">hizalanma</string>
+<string name="size">Boyut</string>
+<string name="rotate">rotasyon</string>
+<string name="line_spacing">Satır aralığı</string>
+<string name="letter_spacing">Harf boşluğu</string>
+<string name="neon_color">Neon rengi</string>
+<string name="blur">Dış Glow</string>
+<string name="inner_glow">İç ışıma</string>
+<string name="view">Ön izleme</string>
+<string name="sticker_count">%d etiketler</string>
+<string name="buy">satın almak</string>
+<string name="copied">Kopyalanan</string>
+<string name="copied_clipboard">Geri tuvale ve metninizi yapıştırın.</string>
+<string name="photo_by">fotoğrafı çeken</string>
+<string name="on">üzerinde</string>
+<string name="unsplash"><![CDATA[<u>Unsplash</u>]]></string>
+<string name="quit_work">çıkmak</string>
+<string name="quit_work_comment">Kaydedilmemiş iş var. \nÇıkmak istediğinden emin misin?</string>
+<string name="yes">EVET</string>
+<string name="no">YOK HAYIR</string>
+<string name="share">Pay</string>
+<string name="instagram">Instagram</string>
+<string name="facebook">Facebook</string>
+<string name="more">Daha</string>
+<string name="saved">Tamamlayınız!</string>
+<string name="saved_comment">Çalışmanız galerisinde NEONY klasörüne kaydedildi. \nArkadaşlarınızla işinizi paylaşın!</string>
+<string name="not_install_instagram">Instagram yüklü değil.</string>
+<string name="purchase_font_sample">Hızlı kahverengi tilki tembel köpeğin üstünden atlar</string>
+<string name="error">Hata</string>
+<string name="billing_error">ödeme hatası</string>
+<string name="shadow">Gölge</string>
+<string name="sticker_comment">İstediğiniz etiket rengini ve boyutunu ayarlayabilirsiniz.</string>
+<string name="ask_rating">Eğer NEONY seviyorsanız, \n\nPlay Store"'"da bir derecelendirme bırakın</string>
+
+    <string name="license_text"><![CDATA[
+\n
+네오니체 (Neony)\n
+\n
+Copyright © PATER NOSTER, with Reserved Font Name "'"네오니체"'", "'"Neony"'", "'"Neony Regular"'".\n
+\n
+네오니체의 지적 재산권은 PATER NOSTER에 있으며,\n
+수정, 재배포, 글꼴 자체를 유료로 판매하는 행위는 금지합니다.\n
+\n
+네오니 앱과 함께 설치된 네오니체를 타 프로그램에서 무단으로 사용하는 것은\n
+글꼴의 사용권(라이선스)을 위반한 것으로 그에 대한 책임을 지게 될 수 있습니다.\n
+네오니 앱이 아닌 다른 프로그램에서의 사용 또는 상업적 이용은 별도의 계약이 요구됩니다.\n
+\n
+-\n
+\n
+
+나눔바른펜\n
+나눔손글씨 펜\n
+Copyright © NAVER Corp. (navercorp.com), with Reserved Font Name "'"나눔바른펜"'", "'"나눔손글씨 펜"'".\n
+\n
+고도체\n
+고도마음체\n
+Copyright ⓒ NHN godo: Corp. (design.godo.co.kr), with Reserved Font Name "'"고도체"'", "'"고도마음체"'".\n
+\n
+스웨거\n
+Copyright © Art & Design International Inc. (artanddesign.co.kr), with Reserved Font Name "'"SDSwagger"'".\n
+\n
+배달의민족 주아체\n
+Copyright © Woowa Brothers Corp. (woowahan.com), with Reserved Font Name "'"배달의민족 주아체"'".\n
+\n
+빙그레체\n
+빙그레체Ⅱ\n
+Copyright © BINGGRAE (bing.co.kr), with Reserved Font Name "'"빙그레체"'", "'"빙그레체Ⅱ"'".\n
+\n
+이롭게바탕체\n
+Copyright © 이롭게(iropke) (iropke.com), with Reserved Font Name ‘이롭게 바탕체’, ‘iropke batang’.\n
+\n
+경기천년바탕\n
+Copyright © GYEONGGI PROVINCE (gg.go.kr), with Reserved Font Name "'"경기천년바탕"'".\n
+\n
+서울한강체\n
+Copyright ⓒ Seoul Metropolitan Government. with Reserved Font Name "'"서울한강체"'".\n
+\n
+디자인하우스체\n
+Copyright © Designhouse inc. (designhouse.co.kr), with Reserved Font Name "'"designhouse"'".\n
+\n
+미생체\n
+Copyright © 윤태호, with Reserved Font Name "'"미생체"'".\n
+\n
+더페이스샵 잉크립퀴드체\n
+Copyright © 더페이스샵 (thefaceshop.com), with Reserved Font Name "'"더페이스샵 잉크립퀴드체"'".\n
+\n
+-\n
+\n
+Beon\n
+Nemoy\n
+Copyright © Bastien Sozeau (sozoo.fr), with Reserved Font Name "'"Beon"'".\n
+\n
+BPpong\n
+BPneon\n
+Copyright © George Triantafyllakos (backpacker.gr), with Reserved Font Name "'"BPpong"'".\n
+\n
+Bravo SCT\n
+Copyright © Michael Chereda (behance.net/mchereda), with Reserved Font Name "'"Bravo"'".\n
+\n
+LIBRARY 3 AM\n
+Copyright © Igor Kosinsky (vk.com/design_89), with Reserved Font Name "'"LIBRARY 3 AM"'".\n
+\n
+Marquee Moon\n
+Axaxax\n
+Copyright © Raymond Larabie (typodermicfonts.com), with Reserved Font Name "'"Marquee Moon"'".\n
+\n
+Potra\n
+Copyright © Alejo Bergmann (designals.net), with Reserved Font Name "'"Potra"'".\n
+\n
+TR2N\n
+Copyright © Jeff Bell (randombell.com),  with Reserved Font Name "'"TR2N"'".\n
+\n
+Nanosecond\n
+techno overload\n
+Whatever\n
+Unanimous\n
+Copyright © Brian Kent (aenigmafonts.com), with Reserved Font Name "'"Nanosecond"'".\n
+\n
+lerotica\n
+La chata\n
+Copyright © Fernando Haro (defharo.com), with Reserved Font Name "'"lerotica"'".\n
+\n
+Ya"'"ahowu\n
+Copyright © Situjuh Nazara (c7n1.wordpress.com), with Reserved Font Name "'"Ya"'"ahowu"'".\n
+\n
+Marske\n
+Copyright © Kash Singh (facebook.com/kashpal.bhogal), with Reserved Font Name "'"Marske"'".\n
+\n
+Clip\n
+Copyright © Martín Argüello (facebook.com/queguanaco),  with Reserved Font Name "'"Clip"'".\n
+\n
+Fabiolo\n
+Copyright © Fabien Despinoy (fabiendespinoy.free.fr), with Reserved Font Name "'"Fabiolo"'".\n
+\n
+Capsuula\n
+Copyright © Henrich Fichna, with Reserved Font Name "'"Capsuula"'".\n
+\n
+ikan_besar\n
+Copyright © Adien Gunarta (naraaksara.com), with Reserved Font Name "'"Ikan Besar"'".\n
+\n
+Engine-Regular\n
+Copyright © Ferdie Balderas (behance.net/indieferdie), with Reserved Font Name "'"Engine"'".\n
+\n
+Sanlabello\n
+Copyright © Eva Barabasne Olasz (fontspace.com/eva-barabasne-olasz), with Reserved Font Name "'"Sanlabello"'".\n
+\n
+Catatan Perjalanan\n
+Copyright © Adien Gunarta, with Reserved Font Name "'"Catatan Perjalanan"'".\n
+\n
+Gruenewals VA\n
+Imrans School\n
+Helvetica Verbundene\n
+Copyright © Peter Wiegel (peter-wiegel.de), with Reserved Font Name "'"Imrans School"'".\n
+\n
+Rhesmanisa\n
+Copyright © Dharma Sahestya (dharmasahestya@gmail.com), with Reserved Font Name "'"Rhesmanisa"'".\n
+\n
+Neoneon\n
+Copyright © Bakoom Studio (bakoom-studio.com), with Reserved Font Name "'"Neoneon"'".\n
+\n
+Riviera\n
+Copyright © Johann Darcel (johanndarcel.com), with Reserved Font Name "'"Riviera"'".\n
+\n
+Klaxons\n
+Copyright © Mark White (behance.net/mrkjhnwht), with Reserved Font Name "'"Klaxons"'".\n
+
+]]></string>
+
+    <string-array name="pexel_name">
+        <item>Popüler</item>
+        <item>Yeni</item>
+        <item>Noel</item>
+        <item>peyzaj</item>
+        <item>Çöl</item>
+        <item>Orman</item>
+        <item>Dağlar</item>
+        <item>nehir</item>
+        <item>Deniz</item>
+        <item>Doğa</item>
+        <item>Gün batımı</item>
+        <item>Gece</item>
+        <item>Kış</item>
+        <item>Yol</item>
+        <item>Oda</item>
+        <item>Doku</item>
+        <item>Duvar</item>
+        <item>bulanıklık</item>
+        <item>soyut</item>
+        <item>Ahşap</item>
+    </string-array>
+
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-9256593771186153~3608282492</string>
+    <string name="admob_interstitial_id"  translatable="false" >ca-app-pub-9256593771186153/4179128137</string>
+    <string name="admob_banner_id" translatable="false" >ca-app-pub-9256593771186153/9782808607</string>
+
+
+    <string-array name="topics">
+        <item>Topic Sample 1</item>
+        <item>Topic Sample 2</item>
+        <item>Topic Sample 3</item>
+        <item>Topic Sample 4</item>
+        <item>Topic Sample 5</item>
+        <item>Topic Sample 6</item>
+        <item>Topic Sample 7</item>
+        <item>Topic Sample 8</item>
+        <item>Topic Sample 9</item>
+        <item>Topic Sample 10</item>
+    </string-array>
+
+    <string-array name="topic_1">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_2">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_3">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_4">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_5">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_6">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_7">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+
+    <string-array name="topic_8">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_9">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_10">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+        <item>Sentences 5</item>
+        <item>Sentences 6</item>
+    </string-array>
+
+<string name="neony_logo">NEONY logosu</string>
+<string name="info_button">Bilgi</string>
+<string name="choose_background_text">bir arka plan seçin</string>
+<string name="theme_image_button">Tema resmi</string>
+<string name="your_photo_button">Benim fotoğraflar</string>
+<string name="color_button">renk</string>
+<string name="back_button">Geri dön</string>
+<string name="close_button">kapat</string>
+<string name="crop_button">ekin</string>
+<string name="reset_button">Reset</string>
+<string name="rotate_button">rotasyon</string>
+<string name="protractor_arrow">Açıölçer ok</string>
+<string name="ratio_button">oran</string>
+<string name="home_button">Ev</string>
+<string name="save_button">Kayıt etmek</string>
+<string name="done_button">tamam</string>
+<string name="find_text_button">Metin bul</string>
+<string name="background_menu_button">Arkaplan Menüsü</string>
+<string name="font_menu_button">yazı Menüsü</string>
+<string name="text_effect_menu_button">Metin şekil menüsü</string>
+<string name="neon_effect_menu_button">Neon etkisi menüsü</string>
+<string name="sticker_menu_button">Yapışkan Menüsü</string>
+<string name="all_photos_button">Tüm fotoğraflar</string>
+<string name="about_button">hakkında</string>
+<string name="rating_button">Değerlendirme</string>
+<string name="share_button">pay</string>
+<string name="neony_insta_button">NEONY Instagram</string>
+<string name="font_license_button">yazı Lisanslama</string>
+<string name="sticker_image">etiket</string>
+<string name="sticker_title">Çıkartma adı</string>
+<string name="sticker_list_image">Çıkartma listesi</string>
+<string name="buy_button">satın almak</string>
+<string name="instagram_share_button">Instagram Paylaş</string>
+<string name="facebook_share_button">FaceBook"'"ta paylaş</string>
+<string name="more_share_button">Daha fazla göster</string>
+<string name="search_button">Arama</string>
+<string name="brightness_text">Parlaklık</string>
+<string name="view_all_button">Hepsini gör</string>
+<string name="neon_color_text">Neon renkler</string>
+<string name="neon_color_button">Neon renkler</string>
+<string name="neon_spread_text">Neon Aralığı</string>
+<string name="neon_shadow_text">Neon Gölge</string>
+<string name="delete_button">silmek</string>
+<string name="sticker_size_text">Çıkartma boyutu</string>
+<string name="sticker_rotate_text">Çıkartma rotasyon</string>
+<string name="sticker_preview_image">Görünüm çıkartmalar önizleme</string>
+<string name="view_button">Görünüm</string>
+<string name="alignment_text">hizalanma</string>
+<string name="size_text">Boyut</string>
+<string name="rotate_text">rotasyon</string>
+<string name="letter_spacing_text">Harf boşluğu</string>
+<string name="line_spacing_text">Satır aralığı</string>
+    <string name="ads">Ad</string>
+    <string name="seek_bar">Seek bar</string>
+    <string name="alignment_left_button">Alignment Left</string>
+    <string name="alignment_center_button">Alignment Center</string>
+    <string name="alignment_right_button">Alignment Right</string>
+    <string name="value_text">Value</string>
+    <string name="rating_text">Ask Rating</string>
+
+    <string name="free_try">FREE TRY</string>
+
+    <string name="alert_permission_title">※ About access permission</string>
+    <string name="alert_permission">We will give you the necessary access permissions to use NEONY.\n
+            \n
+            [Essential Access Permission]\n
+            Photo/Media/File: Used to load, edit and save the selected photo\n
+            Storage space: Used when storing necessary information such as font</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="theme_watch_ads">Kısa bir video izlerseniz,\n ücretsiz olarak kullanabilirsiniz!</string>
+</resources>

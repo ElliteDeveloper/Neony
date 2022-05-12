@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="gallery_spacing">5dp</dimen>
+    <dimen name="color_spacing">10dp</dimen>
+    <dimen name="theme_spacing">10dp</dimen>
+    <dimen name="text_padding">30dp</dimen>
+    <dimen name="percent_width">40dp</dimen>
+    <dimen name="sticker_size">50dp</dimen>
+    <dimen name="sticker_padding">20dp</dimen>
+
+</resources>

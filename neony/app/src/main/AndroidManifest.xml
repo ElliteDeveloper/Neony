@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ptnst.neon.neon">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+    <!--    <uses-sdk tools:overrideLibrary="com.google.android.gms.ads.impl"/>-->
+
+    <application
+        android:name=".NeonApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppNoActionTheme"
+        android:largeHeap="true"
+        tools:overrideLibrary="jp.wasabeef.blurry"
+        android:hardwareAccelerated="true">
+<!--        android:name="androidx.multidex.MultiDexApplication"-->
+<!--        tools:replace="android:appComponentFactory">-->
+
+        <activity android:name=".LogoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppNoActionTheme"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" android:screenOrientation="portrait" />
+        <activity android:name=".GalleryActivity" android:screenOrientation="portrait" />
+        <activity android:name=".SelectColorActivity" android:screenOrientation="portrait" />
+        <activity android:name=".InfoActivity" android:screenOrientation="portrait" />
+        <activity android:name=".AboutActivity" android:screenOrientation="portrait" />
+        <activity android:name=".TextOnlyActivity" android:screenOrientation="portrait" />
+        <activity android:name=".CropActivity" android:screenOrientation="portrait" />
+        <activity android:name=".ThemeActivity" android:screenOrientation="portrait"  android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".EditActivity" android:screenOrientation="portrait"  android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".PurchaseStickerActivity" android:screenOrientation="portrait" />
+        <activity android:name=".PurchaseFontActivity" android:screenOrientation="portrait" />
+        <activity android:name=".FindTextActivity" android:screenOrientation="portrait" />
+        <activity android:name=".ShareActivity" android:screenOrientation="portrait" />
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="3d199cd81d5f717f407312fb05dbefc1c9b7d464" />
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true"/>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id">
+        </meta-data>
+
+    </application>
+
+</manifest>

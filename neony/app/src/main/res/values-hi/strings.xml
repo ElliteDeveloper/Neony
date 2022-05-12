@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">NEONY</string>
+<string name="today_neon">NEONY इंस्टाग्राम</string>
+<string name="choose_background">एक पृष्ठभूमि चुनें</string>
+<string name="theme_image">थीम चित्र</string>
+<string name="your_photo">मेरी तस्वीर</string>
+<string name="color">रंग</string>
+<string name="all_photos">सभी तस्वीरें</string>
+<string name="camera">कैमरा</string>
+<string name="screenshots">स्क्रीनशॉट</string>
+<string name="download">डाउनलोड</string>
+<string name="neon">NEONY</string>
+<string name="num_photos">%d तस्वीरें</string>
+<string name="tab_to_views_albums">एल्बम देखने के लिए टैप</string>
+<string name="choose_ratio">अनुपात का चयन करें</string>
+<string name="one_one">1:1</string>
+<string name="four_five">4:5</string>
+<string name="custom">रिवाज</string>
+<string name="five_four">5:4</string>
+<string name="square">वर्ग</string>
+<string name="for_instagram">खड़ा</string>
+<string name="for_five_four">क्षैतिज</string>
+<string name="free_size_or_original_size">नि: शुल्क आकार या मूल आकार</string>
+<string name="info">जानकारी</string>
+<string name="about">के बारे में</string>
+<string name="version">संस्करण %s</string>
+<string name="credits">क्रेडिट</string>
+<string name="credit_design">डैनियल ली द्वारा डिज़ाइन</string>
+<string name="credits_code">झांग एच द्वारा कोडित</string>
+<string name="contact">संपर्क करें</string>
+<string name="contact_email">daniel.ptnst@gmail.com</string>
+<string name="copyright">कॉपीराइट ⓒ PATER NOSTER। सर्वाधिकार सुरक्षित।</string>
+<string name="rating">रेटिंग</string>
+<string name="recommend_friend">शेयर</string>
+<string name="open_source_library">फ़ॉन्ट लाइसेंस</string>
+<string name="recomment_title">Android के लिए NEONY कोशिश करो!</string>
+<string name="recomment_content">मैं Android के लिए NEONY उपयोग कर रहा हूँ और मैं इसे सलाह देते हैं। यहाँ क्लिक करें: %s</string>
+<string name="crop">फ़सल</string>
+<string name="reset">रीसेट</string>
+    <string name="search_here">Search here (In English)</string>
+<string name="save">बचाना</string>
+<string name="find_text">पाठ ढूंढना</string>
+<string name="done">किया हुआ</string>
+<string name="text_here">पाठ दर्ज करने के लिए टैप</string>
+<string name="background">पृष्ठभूमि</string>
+<string name="font">फ़ॉन्ट</string>
+<string name="text_effect">पाठ \nआकार</string>
+<string name="neon_effect">नियॉन \nप्रभाव</string>
+<string name="delete">हटाना</string>
+<string name="sticker">कँटिया</string>
+<string name="bright">चमक</string>
+<string name="view_all">सभी को देखें</string>
+<string name="alignment">संरेखण</string>
+<string name="size">आकार</string>
+<string name="rotate">रोटेशन</string>
+<string name="line_spacing">पंक्ति रिक्ति</string>
+<string name="letter_spacing">पत्र अंतराल</string>
+<string name="neon_color">नियोन का रंग</string>
+<string name="blur">बाहरी चमक</string>
+<string name="inner_glow">आंतरिक चमक</string>
+<string name="view">पूर्वावलोकन</string>
+<string name="sticker_count">%d स्टिकर</string>
+<string name="buy">खरीदें</string>
+<string name="copied">कॉपी किया गया</string>
+<string name="copied_clipboard">कैनवास और अपने पाठ चिपकाने के लिए वापस।</string>
+<string name="photo_by">के द्वारा तस्वीर</string>
+<string name="on">पर</string>
+<string name="unsplash"><![CDATA[<u>Unsplash</u>]]></string>
+<string name="quit_work">छोड़ना</string>
+<string name="quit_work_comment">आपके पास बिना सहेजा काम किया है। \nक्या आप वाकई छोड़ना चाहते हैं?</string>
+<string name="yes">हाँ</string>
+<string name="no">नहीं</string>
+<string name="share">शेयर</string>
+<string name="instagram">इंस्टाग्राम</string>
+<string name="facebook">फेसबुक</string>
+<string name="more">अधिक</string>
+<string name="saved">पूर्ण!</string>
+<string name="saved_comment">आपका काम गैलरी में NEONY फ़ोल्डर में सहेजा गया है। \nअपने दोस्तों के साथ अपने काम को साझा करें!</string>
+<string name="not_install_instagram">इंस्टाग्राम स्थापित नहीं है।</string>
+<string name="purchase_font_sample">तेज, भूरी लोमडी आलसी कुत्ते के उपर कूद गई</string>
+<string name="error">त्रुटि</string>
+<string name="billing_error">भुगतान त्रुटि</string>
+<string name="shadow">साया</string>
+<string name="sticker_comment">आप रंग और स्टीकर का आकार आप चाहते हैं समायोजित कर सकते हैं।</string>
+<string name="ask_rating">आप NEONY प्यार, \n\nतो Play स्टोर पर एक रेटिंग छोड़ कृपया</string>
+
+    <string name="license_text"><![CDATA[
+\n
+네오니체 (Neony)\n
+\n
+Copyright © PATER NOSTER, with Reserved Font Name "'"네오니체"'", "'"Neony"'", "'"Neony Regular"'".\n
+\n
+네오니체의 지적 재산권은 PATER NOSTER에 있으며,\n
+수정, 재배포, 글꼴 자체를 유료로 판매하는 행위는 금지합니다.\n
+\n
+네오니 앱과 함께 설치된 네오니체를 타 프로그램에서 무단으로 사용하는 것은\n
+글꼴의 사용권(라이선스)을 위반한 것으로 그에 대한 책임을 지게 될 수 있습니다.\n
+네오니 앱이 아닌 다른 프로그램에서의 사용 또는 상업적 이용은 별도의 계약이 요구됩니다.\n
+\n
+-\n
+\n
+
+나눔바른펜\n
+나눔손글씨 펜\n
+Copyright © NAVER Corp. (navercorp.com), with Reserved Font Name "'"나눔바른펜"'", "'"나눔손글씨 펜"'".\n
+\n
+고도체\n
+고도마음체\n
+Copyright ⓒ NHN godo: Corp. (design.godo.co.kr), with Reserved Font Name "'"고도체"'", "'"고도마음체"'".\n
+\n
+스웨거\n
+Copyright © Art & Design International Inc. (artanddesign.co.kr), with Reserved Font Name "'"SDSwagger"'".\n
+\n
+배달의민족 주아체\n
+Copyright © Woowa Brothers Corp. (woowahan.com), with Reserved Font Name "'"배달의민족 주아체"'".\n
+\n
+빙그레체\n
+빙그레체Ⅱ\n
+Copyright © BINGGRAE (bing.co.kr), with Reserved Font Name "'"빙그레체"'", "'"빙그레체Ⅱ"'".\n
+\n
+이롭게바탕체\n
+Copyright © 이롭게(iropke) (iropke.com), with Reserved Font Name ‘이롭게 바탕체’, ‘iropke batang’.\n
+\n
+경기천년바탕\n
+Copyright © GYEONGGI PROVINCE (gg.go.kr), with Reserved Font Name "'"경기천년바탕"'".\n
+\n
+서울한강체\n
+Copyright ⓒ Seoul Metropolitan Government. with Reserved Font Name "'"서울한강체"'".\n
+\n
+디자인하우스체\n
+Copyright © Designhouse inc. (designhouse.co.kr), with Reserved Font Name "'"designhouse"'".\n
+\n
+미생체\n
+Copyright © 윤태호, with Reserved Font Name "'"미생체"'".\n
+\n
+더페이스샵 잉크립퀴드체\n
+Copyright © 더페이스샵 (thefaceshop.com), with Reserved Font Name "'"더페이스샵 잉크립퀴드체"'".\n
+\n
+-\n
+\n
+Beon\n
+Nemoy\n
+Copyright © Bastien Sozeau (sozoo.fr), with Reserved Font Name "'"Beon"'".\n
+\n
+BPpong\n
+BPneon\n
+Copyright © George Triantafyllakos (backpacker.gr), with Reserved Font Name "'"BPpong"'".\n
+\n
+Bravo SCT\n
+Copyright © Michael Chereda (behance.net/mchereda), with Reserved Font Name "'"Bravo"'".\n
+\n
+LIBRARY 3 AM\n
+Copyright © Igor Kosinsky (vk.com/design_89), with Reserved Font Name "'"LIBRARY 3 AM"'".\n
+\n
+Marquee Moon\n
+Axaxax\n
+Copyright © Raymond Larabie (typodermicfonts.com), with Reserved Font Name "'"Marquee Moon"'".\n
+\n
+Potra\n
+Copyright © Alejo Bergmann (designals.net), with Reserved Font Name "'"Potra"'".\n
+\n
+TR2N\n
+Copyright © Jeff Bell (randombell.com),  with Reserved Font Name "'"TR2N"'".\n
+\n
+Nanosecond\n
+techno overload\n
+Whatever\n
+Unanimous\n
+Copyright © Brian Kent (aenigmafonts.com), with Reserved Font Name "'"Nanosecond"'".\n
+\n
+lerotica\n
+La chata\n
+Copyright © Fernando Haro (defharo.com), with Reserved Font Name "'"lerotica"'".\n
+\n
+Ya"'"ahowu\n
+Copyright © Situjuh Nazara (c7n1.wordpress.com), with Reserved Font Name "'"Ya"'"ahowu"'".\n
+\n
+Marske\n
+Copyright © Kash Singh (facebook.com/kashpal.bhogal), with Reserved Font Name "'"Marske"'".\n
+\n
+Clip\n
+Copyright © Martín Argüello (facebook.com/queguanaco),  with Reserved Font Name "'"Clip"'".\n
+\n
+Fabiolo\n
+Copyright © Fabien Despinoy (fabiendespinoy.free.fr), with Reserved Font Name "'"Fabiolo"'".\n
+\n
+Capsuula\n
+Copyright © Henrich Fichna, with Reserved Font Name "'"Capsuula"'".\n
+\n
+ikan_besar\n
+Copyright © Adien Gunarta (naraaksara.com), with Reserved Font Name "'"Ikan Besar"'".\n
+\n
+Engine-Regular\n
+Copyright © Ferdie Balderas (behance.net/indieferdie), with Reserved Font Name "'"Engine"'".\n
+\n
+Sanlabello\n
+Copyright © Eva Barabasne Olasz (fontspace.com/eva-barabasne-olasz), with Reserved Font Name "'"Sanlabello"'".\n
+\n
+Catatan Perjalanan\n
+Copyright © Adien Gunarta, with Reserved Font Name "'"Catatan Perjalanan"'".\n
+\n
+Gruenewals VA\n
+Imrans School\n
+Helvetica Verbundene\n
+Copyright © Peter Wiegel (peter-wiegel.de), with Reserved Font Name "'"Imrans School"'".\n
+\n
+Rhesmanisa\n
+Copyright © Dharma Sahestya (dharmasahestya@gmail.com), with Reserved Font Name "'"Rhesmanisa"'".\n
+\n
+Neoneon\n
+Copyright © Bakoom Studio (bakoom-studio.com), with Reserved Font Name "'"Neoneon"'".\n
+\n
+Riviera\n
+Copyright © Johann Darcel (johanndarcel.com), with Reserved Font Name "'"Riviera"'".\n
+\n
+Klaxons\n
+Copyright © Mark White (behance.net/mrkjhnwht), with Reserved Font Name "'"Klaxons"'".\n
+
+]]></string>
+
+    <string-array name="pexel_name">
+        <item>लोकप्रिय</item>
+        <item>नया</item>
+        <item>क्रिसमस</item>
+        <item>परिदृश्य</item>
+        <item>रेगिस्तान</item>
+        <item>वन</item>
+        <item>पहाड़ों</item>
+        <item>नदी</item>
+        <item>समुद्र</item>
+        <item>प्रकृति</item>
+        <item>सूर्य का अस्त होना</item>
+        <item>रात</item>
+        <item>सर्दी</item>
+        <item>सड़क</item>
+        <item>कक्ष</item>
+        <item>बनावट</item>
+        <item>दीवार</item>
+        <item>कलंक</item>
+        <item>सार</item>
+        <item>लकड़ी</item>
+    </string-array>
+
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-9256593771186153~3608282492</string>
+    <string name="admob_interstitial_id"  translatable="false" >ca-app-pub-9256593771186153/4179128137</string>
+    <string name="admob_banner_id" translatable="false" >ca-app-pub-9256593771186153/9782808607</string>
+
+
+    <string-array name="topics">
+        <item>Topic Sample 1</item>
+        <item>Topic Sample 2</item>
+        <item>Topic Sample 3</item>
+        <item>Topic Sample 4</item>
+        <item>Topic Sample 5</item>
+        <item>Topic Sample 6</item>
+        <item>Topic Sample 7</item>
+        <item>Topic Sample 8</item>
+        <item>Topic Sample 9</item>
+        <item>Topic Sample 10</item>
+    </string-array>
+
+    <string-array name="topic_1">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_2">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_3">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_4">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_5">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_6">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_7">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+
+    <string-array name="topic_8">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_9">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_10">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+        <item>Sentences 5</item>
+        <item>Sentences 6</item>
+    </string-array>
+
+<string name="neony_logo">NEONY लोगो</string>
+<string name="info_button">जानकारी</string>
+<string name="choose_background_text">एक पृष्ठभूमि चुनें</string>
+<string name="theme_image_button">थीम चित्र</string>
+<string name="your_photo_button">मेरी तस्वीरें</string>
+<string name="color_button">रंग</string>
+<string name="back_button">वापस जाओ</string>
+<string name="close_button">बंद करे</string>
+<string name="crop_button">फ़सल</string>
+<string name="reset_button">रीसेट</string>
+<string name="rotate_button">रोटेशन</string>
+<string name="protractor_arrow">चांदा तीर</string>
+<string name="ratio_button">अनुपात</string>
+<string name="home_button">होम</string>
+<string name="save_button">बचाना</string>
+<string name="done_button">किया हुआ</string>
+<string name="find_text_button">पाठ ढूंढना</string>
+<string name="background_menu_button">पृष्ठभूमि मेनू</string>
+<string name="font_menu_button">फ़ॉन्ट मेनू</string>
+<string name="text_effect_menu_button">पाठ आकार मेनू</string>
+<string name="neon_effect_menu_button">नियॉन प्रभाव मेनू</string>
+<string name="sticker_menu_button">स्टिकी मेनू</string>
+<string name="all_photos_button">सभी तस्वीरें</string>
+<string name="about_button">के बारे में</string>
+<string name="rating_button">रेटिंग</string>
+<string name="share_button">शेयर</string>
+<string name="neony_insta_button">NEONY इंस्टाग्राम</string>
+<string name="font_license_button">फ़ॉन्ट लाइसेंसिंग</string>
+<string name="sticker_image">कँटिया</string>
+<string name="sticker_title">स्टिकर नाम</string>
+<string name="sticker_list_image">स्टिकर सूची</string>
+<string name="buy_button">खरीदें</string>
+<string name="instagram_share_button">Instagram के लिए शेयर</string>
+<string name="facebook_share_button">फेसबुक पर साझा करें</string>
+<string name="more_share_button">और देखो</string>
+<string name="search_button">खोज</string>
+<string name="brightness_text">चमक</string>
+<string name="view_all_button">सभी को देखें</string>
+<string name="neon_color_text">नियॉन रंग</string>
+<string name="neon_color_button">नियॉन रंग</string>
+<string name="neon_spread_text">नियॉन रेंज</string>
+<string name="neon_shadow_text">नियॉन छाया</string>
+<string name="delete_button">हटाना</string>
+<string name="sticker_size_text">स्टीकर आकार</string>
+<string name="sticker_rotate_text">स्टीकर रोटेशन</string>
+<string name="sticker_preview_image">देखें स्टिकर पूर्वावलोकन</string>
+<string name="view_button">राय</string>
+<string name="alignment_text">संरेखण</string>
+<string name="size_text">आकार</string>
+<string name="rotate_text">रोटेशन</string>
+<string name="letter_spacing_text">पत्र अंतराल</string>
+<string name="line_spacing_text">पंक्ति रिक्ति</string>
+    <string name="ads">Ad</string>
+    <string name="seek_bar">Seek bar</string>
+    <string name="alignment_left_button">Alignment Left</string>
+    <string name="alignment_center_button">Alignment Center</string>
+    <string name="alignment_right_button">Alignment Right</string>
+    <string name="value_text">Value</string>
+    <string name="rating_text">Ask Rating</string>
+
+    <string name="free_try">FREE TRY</string>
+
+    <string name="alert_permission_title">※ About access permission</string>
+    <string name="alert_permission">We will give you the necessary access permissions to use NEONY.\n
+            \n
+            [Essential Access Permission]\n
+            Photo/Media/File: Used to load, edit and save the selected photo\n
+            Storage space: Used when storing necessary information such as font</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="theme_watch_ads">यदि आप एक छोटा वीडियो देखते हैं, \nतो आप मुफ्त में उपयोग कर सकते हैं!</string>
+</resources>

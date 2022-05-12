@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">NEONY</string>
+<string name="today_neon">NEONY Instagram</string>
+<string name="choose_background">בחר רקע</string>
+<string name="theme_image">תמונת Theme</string>
+<string name="your_photo">התמונה שלי</string>
+<string name="color">צבע</string>
+<string name="all_photos">כל התמונות</string>
+<string name="camera">מצלמה</string>
+<string name="screenshots">צילומי מסך</string>
+<string name="download">הורד</string>
+<string name="neon">NEONY</string>
+<string name="num_photos">% D תמונות</string>
+<string name="tab_to_views_albums">הקש כדי להציג אלבומים</string>
+<string name="choose_ratio">יחס בחר</string>
+<string name="one_one">1:1</string>
+<string name="four_five">4:5</string>
+<string name="custom">המותאם אישית</string>
+<string name="five_four">5:4</string>
+<string name="square">כיכר</string>
+<string name="for_instagram">אנכי</string>
+<string name="for_five_four">אופקי\n</string>
+<string name="free_size_or_original_size">גודל חינם או גודל מקורי</string>
+<string name="info">מידע</string>
+<string name="about">על אודות</string>
+<string name="version">גרסה% s</string>
+<string name="credits">נקודות זכות</string>
+<string name="credit_design">עוצב על ידי דניאל לי</string>
+<string name="credits_code">מקודד על ידי ג\'אנג H.</string>
+<string name="contact">איש קשר</string>
+<string name="contact_email">daniel.ptnst@gmail.com</string>
+<string name="copyright">זכויות יוצרים ⓒ PATER NOSTER. כל הזכויות שמורות</string>
+<string name="rating">דירוג</string>
+<string name="recommend_friend">שתף</string>
+<string name="open_source_library">רישיון גופן</string>
+<string name="recomment_title">נסה NEONY עבור אנדרואיד!</string>
+<string name="recomment_content">אני משתמש NEONY עבור אנדרואיד ואני ממליץ עליו. לחץ כאן:% s\n</string>
+<string name="crop">יבול</string>
+<string name="reset">איפוס</string>
+    <string name="search_here">Search here (In English)</string>
+<string name="save">להציל</string>
+<string name="find_text">מצא טקסט</string>
+<string name="done">בוצע</string>
+<string name="text_here">הקש כדי להזין טקסט</string>
+<string name="background">רקע כללי</string>
+<string name="font">גופן</string>
+<string name="text_effect">Shape טקסט</string>
+<string name="neon_effect">אפקט ניאון</string>
+<string name="delete">מחק</string>
+<string name="sticker">מדבקה</string>
+<string name="bright">בהיר</string>
+<string name="view_all">צפה בהכל</string>
+<string name="alignment">יישור</string>
+<string name="size">גודל</string>
+<string name="rotate">סיבוב</string>
+<string name="line_spacing">מרווח בין שורות</string>
+<string name="letter_spacing">ריווח אותיות</string>
+<string name="neon_color">צבע ניאון</string>
+<string name="blur">החיצוני יוחנא</string>
+<string name="inner_glow">זוהר פנימי</string>
+<string name="view">תצוגה מקדימה</string>
+<string name="sticker_count">מדבקות% d</string>
+<string name="buy">קנה</string>
+<string name="copied">הועתק</string>
+<string name="copied_clipboard">חזרה בד להדביק את הטקסט שלך.</string>
+<string name="photo_by">תמונה על ידי</string>
+<string name="on">על</string>
+<string name="unsplash"><![CDATA[<u>Unsplash</u>]]></string>
+<string name="quit_work">צא</string>
+<string name="quit_work_comment">יש לך עבודה שלא נשמרה. אתה בטוח שברצונך לפרוש?</string>
+<string name="yes">כן</string>
+<string name="no">לא</string>
+<string name="share">שתף</string>
+<string name="instagram">אינסטגרם</string>
+<string name="facebook">פייסבוק</string>
+<string name="more">יותר</string>
+<string name="saved">שלם!</string>
+<string name="saved_comment">העבודה שלך נשמר בתיקיית NEONY בגלריה.\n שתף את העבודה שלך עם החברים שלך!</string>
+<string name="not_install_instagram">Instagram אינו מותקן.</string>
+<string name="purchase_font_sample">שועל חום הקפיצות מעל הכלב העצלן</string>
+<string name="error">שגיאה</string>
+<string name="billing_error">שגיאה בתשלום</string>
+<string name="shadow">Shadow</string>
+<string name="sticker_comment">ניתן להתאים את צבע וגודל מדבקה שאתה רוצה.</string>
+<string name="ask_rating">אם אתם אוהבים NEONY, נא להשאיר דירוג בחנות Play</string>
+
+    <string name="license_text"><![CDATA[
+\n
+네오니체 (Neony)\n
+\n
+Copyright © PATER NOSTER, with Reserved Font Name "'"네오니체"'", "'"Neony"'", "'"Neony Regular"'".\n
+\n
+네오니체의 지적 재산권은 PATER NOSTER에 있으며,\n
+수정, 재배포, 글꼴 자체를 유료로 판매하는 행위는 금지합니다.\n
+\n
+네오니 앱과 함께 설치된 네오니체를 타 프로그램에서 무단으로 사용하는 것은\n
+글꼴의 사용권(라이선스)을 위반한 것으로 그에 대한 책임을 지게 될 수 있습니다.\n
+네오니 앱이 아닌 다른 프로그램에서의 사용 또는 상업적 이용은 별도의 계약이 요구됩니다.\n
+\n
+-\n
+\n
+
+나눔바른펜\n
+나눔손글씨 펜\n
+Copyright © NAVER Corp. (navercorp.com), with Reserved Font Name "'"나눔바른펜"'", "'"나눔손글씨 펜"'".\n
+\n
+고도체\n
+고도마음체\n
+Copyright ⓒ NHN godo: Corp. (design.godo.co.kr), with Reserved Font Name "'"고도체"'", "'"고도마음체"'".\n
+\n
+스웨거\n
+Copyright © Art & Design International Inc. (artanddesign.co.kr), with Reserved Font Name "'"SDSwagger"'".\n
+\n
+배달의민족 주아체\n
+Copyright © Woowa Brothers Corp. (woowahan.com), with Reserved Font Name "'"배달의민족 주아체"'".\n
+\n
+빙그레체\n
+빙그레체Ⅱ\n
+Copyright © BINGGRAE (bing.co.kr), with Reserved Font Name "'"빙그레체"'", "'"빙그레체Ⅱ"'".\n
+\n
+이롭게바탕체\n
+Copyright © 이롭게(iropke) (iropke.com), with Reserved Font Name ‘이롭게 바탕체’, ‘iropke batang’.\n
+\n
+경기천년바탕\n
+Copyright © GYEONGGI PROVINCE (gg.go.kr), with Reserved Font Name "'"경기천년바탕"'".\n
+\n
+서울한강체\n
+Copyright ⓒ Seoul Metropolitan Government. with Reserved Font Name "'"서울한강체"'".\n
+\n
+디자인하우스체\n
+Copyright © Designhouse inc. (designhouse.co.kr), with Reserved Font Name "'"designhouse"'".\n
+\n
+미생체\n
+Copyright © 윤태호, with Reserved Font Name "'"미생체"'".\n
+\n
+더페이스샵 잉크립퀴드체\n
+Copyright © 더페이스샵 (thefaceshop.com), with Reserved Font Name "'"더페이스샵 잉크립퀴드체"'".\n
+\n
+-\n
+\n
+Beon\n
+Nemoy\n
+Copyright © Bastien Sozeau (sozoo.fr), with Reserved Font Name "'"Beon"'".\n
+\n
+BPpong\n
+BPneon\n
+Copyright © George Triantafyllakos (backpacker.gr), with Reserved Font Name "'"BPpong"'".\n
+\n
+Bravo SCT\n
+Copyright © Michael Chereda (behance.net/mchereda), with Reserved Font Name "'"Bravo"'".\n
+\n
+LIBRARY 3 AM\n
+Copyright © Igor Kosinsky (vk.com/design_89), with Reserved Font Name "'"LIBRARY 3 AM"'".\n
+\n
+Marquee Moon\n
+Axaxax\n
+Copyright © Raymond Larabie (typodermicfonts.com), with Reserved Font Name "'"Marquee Moon"'".\n
+\n
+Potra\n
+Copyright © Alejo Bergmann (designals.net), with Reserved Font Name "'"Potra"'".\n
+\n
+TR2N\n
+Copyright © Jeff Bell (randombell.com),  with Reserved Font Name "'"TR2N"'".\n
+\n
+Nanosecond\n
+techno overload\n
+Whatever\n
+Unanimous\n
+Copyright © Brian Kent (aenigmafonts.com), with Reserved Font Name "'"Nanosecond"'".\n
+\n
+lerotica\n
+La chata\n
+Copyright © Fernando Haro (defharo.com), with Reserved Font Name "'"lerotica"'".\n
+\n
+Ya"'"ahowu\n
+Copyright © Situjuh Nazara (c7n1.wordpress.com), with Reserved Font Name "'"Ya"'"ahowu"'".\n
+\n
+Marske\n
+Copyright © Kash Singh (facebook.com/kashpal.bhogal), with Reserved Font Name "'"Marske"'".\n
+\n
+Clip\n
+Copyright © Martín Argüello (facebook.com/queguanaco),  with Reserved Font Name "'"Clip"'".\n
+\n
+Fabiolo\n
+Copyright © Fabien Despinoy (fabiendespinoy.free.fr), with Reserved Font Name "'"Fabiolo"'".\n
+\n
+Capsuula\n
+Copyright © Henrich Fichna, with Reserved Font Name "'"Capsuula"'".\n
+\n
+ikan_besar\n
+Copyright © Adien Gunarta (naraaksara.com), with Reserved Font Name "'"Ikan Besar"'".\n
+\n
+Engine-Regular\n
+Copyright © Ferdie Balderas (behance.net/indieferdie), with Reserved Font Name "'"Engine"'".\n
+\n
+Sanlabello\n
+Copyright © Eva Barabasne Olasz (fontspace.com/eva-barabasne-olasz), with Reserved Font Name "'"Sanlabello"'".\n
+\n
+Catatan Perjalanan\n
+Copyright © Adien Gunarta, with Reserved Font Name "'"Catatan Perjalanan"'".\n
+\n
+Gruenewals VA\n
+Imrans School\n
+Helvetica Verbundene\n
+Copyright © Peter Wiegel (peter-wiegel.de), with Reserved Font Name "'"Imrans School"'".\n
+\n
+Rhesmanisa\n
+Copyright © Dharma Sahestya (dharmasahestya@gmail.com), with Reserved Font Name "'"Rhesmanisa"'".\n
+\n
+Neoneon\n
+Copyright © Bakoom Studio (bakoom-studio.com), with Reserved Font Name "'"Neoneon"'".\n
+\n
+Riviera\n
+Copyright © Johann Darcel (johanndarcel.com), with Reserved Font Name "'"Riviera"'".\n
+\n
+Klaxons\n
+Copyright © Mark White (behance.net/mrkjhnwht), with Reserved Font Name "'"Klaxons"'".\n
+
+]]></string>
+
+    <string-array name="pexel_name">
+        <item>פופולרי</item>
+        <item>חדש</item>
+        <item>חג המולד</item>
+        <item>נוף</item>
+        <item>במדבר</item>
+        <item>יער</item>
+        <item>הרי</item>
+        <item>נהר</item>
+        <item>ים</item>
+        <item>הטבע</item>
+        <item>שקיעת החמה</item>
+        <item>לילה</item>
+        <item>חורף</item>
+        <item>כביש</item>
+        <item>חדר</item>
+        <item>מרקם</item>
+        <item>קיר</item>
+        <item>טשטוש</item>
+        <item>תקציר</item>
+        <item>עץ</item>
+    </string-array>
+
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-9256593771186153~3608282492</string>
+    <string name="admob_interstitial_id"  translatable="false" >ca-app-pub-9256593771186153/4179128137</string>
+    <string name="admob_banner_id" translatable="false" >ca-app-pub-9256593771186153/9782808607</string>
+
+
+    <string-array name="topics">
+        <item>Topic Sample 1</item>
+        <item>Topic Sample 2</item>
+        <item>Topic Sample 3</item>
+        <item>Topic Sample 4</item>
+        <item>Topic Sample 5</item>
+        <item>Topic Sample 6</item>
+        <item>Topic Sample 7</item>
+        <item>Topic Sample 8</item>
+        <item>Topic Sample 9</item>
+        <item>Topic Sample 10</item>
+    </string-array>
+
+    <string-array name="topic_1">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_2">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_3">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_4">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_5">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_6">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_7">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+
+    <string-array name="topic_8">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_9">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_10">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+        <item>Sentences 5</item>
+        <item>Sentences 6</item>
+    </string-array>
+
+<string name="neony_logo">לוגו NEONY</string>
+<string name="info_button">מידע</string>
+<string name="choose_background_text">בחר רקע</string>
+<string name="theme_image_button">תמונת Theme</string>
+<string name="your_photo_button">התמונות שלי</string>
+<string name="color_button">צבע</string>
+<string name="back_button">תחזור</string>
+<string name="close_button">קרוב</string>
+<string name="crop_button">יבול</string>
+<string name="reset_button">איפוס</string>
+<string name="rotate_button">סיבוב</string>
+<string name="protractor_arrow">חץ זוית</string>
+<string name="ratio_button">רציו</string>
+<string name="home_button">בית</string>
+<string name="save_button">להציל</string>
+<string name="done_button">בוצע</string>
+<string name="find_text_button">מצא טקסט</string>
+<string name="background_menu_button">תפריט רקע</string>
+<string name="font_menu_button">תפריט גופן</string>
+<string name="text_effect_menu_button">תפריט בצורת טקסט</string>
+<string name="neon_effect_menu_button">תפריט אפקט ניאון</string>
+<string name="sticker_menu_button">תפריט דביק</string>
+<string name="all_photos_button">כל התמונות</string>
+<string name="about_button">על אודות</string>
+<string name="rating_button">דירוג</string>
+<string name="share_button">נתח</string>
+<string name="neony_insta_button">NEONY Instagram</string>
+<string name="font_license_button">רישוי גופן</string>
+<string name="sticker_image">מדבקה</string>
+<string name="sticker_title">שם מדבקות</string>
+<string name="sticker_list_image">רשימת מדבקות</string>
+<string name="buy_button">קנה</string>
+<string name="instagram_share_button">שתף אל Instagram</string>
+<string name="facebook_share_button">שתף אל פייסבוק</string>
+<string name="more_share_button">ראה עוד</string>
+<string name="search_button">לחפש</string>
+<string name="brightness_text">בהיר</string>
+<string name="view_all_button">צפה בהכל</string>
+<string name="neon_color_text">צבעי ניאון</string>
+<string name="neon_color_button">צבעי ניאון</string>
+<string name="neon_spread_text">נאון טווח</string>
+<string name="neon_shadow_text">צל ניאון</string>
+<string name="delete_button">מחק</string>
+<string name="sticker_size_text">גודל מדבקה</string>
+<string name="sticker_rotate_text">סיבוב מדבקה</string>
+<string name="sticker_preview_image">מדבקות צפו מקדים</string>
+<string name="view_button">נוף</string>
+<string name="alignment_text">יישור</string>
+<string name="size_text">גודל</string>
+<string name="rotate_text">סיבוב</string>
+<string name="letter_spacing_text">ריווח אותיות</string>
+<string name="line_spacing_text">מרווח בין שורות</string>
+    <string name="ads">Ad</string>
+    <string name="seek_bar">Seek bar</string>
+    <string name="alignment_left_button">Alignment Left</string>
+    <string name="alignment_center_button">Alignment Center</string>
+    <string name="alignment_right_button">Alignment Right</string>
+    <string name="value_text">Value</string>
+    <string name="rating_text">Ask Rating</string>
+
+    <string name="free_try">FREE TRY</string>
+
+    <string name="alert_permission_title">※ About access permission</string>
+    <string name="alert_permission">We will give you the necessary access permissions to use NEONY.\n
+            \n
+            [Essential Access Permission]\n
+            Photo/Media/File: Used to load, edit and save the selected photo\n
+            Storage space: Used when storing necessary information such as font</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="theme_watch_ads">אם אתה צופה בסרטון קצר\n, אתה יכול להשתמש בחינם!</string>
+</resources>

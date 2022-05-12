@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@android:id/background" android:drawable="@drawable/seekbar_back"/>
+
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="2dp"/>
+                <gradient
+                    android:endColor="@color/colorPink"
+                    android:startColor="@color/colorPurple" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

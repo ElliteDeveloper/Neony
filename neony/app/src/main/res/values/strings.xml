@@ -1,0 +1,437 @@
+<resources>
+    <string name="app_name">NEONY</string>
+    <string name="today_neon">NEONY Instagram</string>
+    <string name="choose_background">Choose a background</string>
+    <string name="theme_image">Theme Image</string>
+    <string name="your_photo">Your Photo</string>
+    <string name="color">Color</string>
+    <string name="all_photos">All Photos</string>
+    <string name="camera">Camera</string>
+    <string name="screenshots">Screenshots</string>
+    <string name="download">Download</string>
+    <string name="neon">NEONY</string>
+    <string name="num_photos">%d Photos</string>
+    <string name="tab_to_views_albums">Tab to view albums</string>
+    <string name="choose_ratio">Choose ratio</string>
+    <string name="one_one">1:1</string>
+    <string name="four_five">4:5</string>
+    <string name="custom">Custom</string>
+    <string name="five_four">5:4</string>
+    <string name="square">Square</string>
+    <string name="for_instagram">For Instagram</string>
+    <string name="for_five_four">For Horizontal</string>
+    <string name="free_size_or_original_size">Free Size or Original Size</string>
+    <string name="info">Info</string>
+    <string name="about">About</string>
+    <string name="version">Version %s</string>
+    <string name="credits">Credits</string>
+    <string name="credit_design">Designed by Daniel Lee</string>
+    <string name="credits_code">Coded by Zhang H.</string>
+    <string name="contact">Contact</string>
+    <string name="contact_email">daniel.ptnst@gmail.com</string>
+    <string name="copyright">Copyright ⓒ PATER NOSTER. All Rights Reserved.</string>
+    <string name="rating">Rating</string>
+    <string name="recommend_friend">Recommend to Friend</string>
+    <string name="open_source_library">Font License</string>
+    <string name="recomment_title">Try NEONY for Android!</string>
+    <string name="recomment_content">I"'"m using NEONY for Android and I recommend it. Click here: %s</string>
+    <string name="crop">Crop</string>
+    <string name="reset">Reset</string>
+    <string name="search_here">Search here (In English)</string>
+    <string name="save">Save</string>
+    <string name="find_text">Find Text</string>
+    <string name="done">Done</string>
+    <string name="text_here">Tap to enter text</string>
+    <string name="background">Background</string>
+    <string name="font">Font</string>
+    <string name="text_effect">Text\nShape</string>
+    <string name="neon_effect">Neon\nEffect</string>
+    <string name="delete">Delete</string>
+    <string name="sticker">Sticker</string>
+    <string name="bright">Brightness</string>
+    <string name="view_all">View all</string>
+    <string name="alignment">Alignment</string>
+    <string name="size">Size</string>
+    <string name="rotate">Rotate</string>
+    <string name="line_spacing">Line Spacing</string>
+    <string name="letter_spacing">Letter Spacing</string>
+    <string name="neon_color">Neon Color</string>
+    <string name="blur">Outer Glow</string>
+    <string name="inner_glow">Inner Glow</string>
+    <string name="view">View</string>
+    <string name="sticker_count">%d Stickers</string>
+    <string name="buy">Buy</string>
+    <string name="copied">Copied!</string>
+    <string name="copied_clipboard">Back to canvas \nand paste your sentence.</string>
+    <string name="photo_by">Photo by</string>
+    <string name="on">on</string>
+    <string name="unsplash"><![CDATA[<u>Unsplash</u>]]></string>
+    <string name="quit_work">Quit?</string>
+    <string name="quit_work_comment">You have unsaved work.\nAre you sure you want to quit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="share">Share</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="more">More</string>
+    <string name="saved">Saved!</string>
+    <string name="saved_comment">Your work is saved in gallery.\nLet"'"s share what you did with friends!</string>
+    <string name="not_install_instagram">The instagram is not installed.</string>
+    <string name="purchase_font_sample">The quick brown fox \n jumps over the lazy dog</string>
+    <string name="error">Error</string>
+    <string name="billing_error">Billing Error.</string>
+    <string name="shadow">Shadow</string>
+    <string name="sticker_comment">You can change the neon color and size of the sticker after purchase, as you want</string>
+    <string name="ask_rating">If you love NEONY, \n\nplease take a moment to rate it in Play Store</string>
+
+    <string name="license_text"><![CDATA[
+\n
+네오니체 (Neony)\n
+\n
+Copyright © PATER NOSTER, with Reserved Font Name "'"네오니체"'", "'"Neony"'", "'"Neony Regular"'".\n
+\n
+네오니체의 지적 재산권은 PATER NOSTER에 있으며,\n
+수정, 재배포, 글꼴 자체를 유료로 판매하는 행위는 금지합니다.\n
+\n
+네오니 앱과 함께 설치된 네오니체를 타 프로그램에서 무단으로 사용하는 것은\n
+글꼴의 사용권(라이선스)을 위반한 것으로 그에 대한 책임을 지게 될 수 있습니다.\n
+네오니 앱이 아닌 다른 프로그램에서의 사용 또는 상업적 이용은 별도의 계약이 요구됩니다.\n
+\n
+-\n
+\n
+
+나눔바른펜\n
+나눔손글씨 펜\n
+Copyright © NAVER Corp. (navercorp.com), with Reserved Font Name "'"나눔바른펜"'", "'"나눔손글씨 펜"'".\n
+\n
+고도체\n
+고도마음체\n
+Copyright ⓒ NHN godo: Corp. (design.godo.co.kr), with Reserved Font Name "'"고도체"'", "'"고도마음체"'".\n
+\n
+스웨거\n
+Copyright © Art & Design International Inc. (artanddesign.co.kr), with Reserved Font Name "'"SDSwagger"'".\n
+\n
+배달의민족 주아체\n
+Copyright © Woowa Brothers Corp. (woowahan.com), with Reserved Font Name "'"배달의민족 주아체"'".\n
+\n
+빙그레체\n
+빙그레체Ⅱ\n
+Copyright © BINGGRAE (bing.co.kr), with Reserved Font Name "'"빙그레체"'", "'"빙그레체Ⅱ"'".\n
+\n
+이롭게바탕체\n
+Copyright © 이롭게(iropke) (iropke.com), with Reserved Font Name ‘이롭게 바탕체’, ‘iropke batang’.\n
+\n
+경기천년바탕\n
+Copyright © GYEONGGI PROVINCE (gg.go.kr), with Reserved Font Name "'"경기천년바탕"'".\n
+\n
+서울한강체\n
+Copyright ⓒ Seoul Metropolitan Government. with Reserved Font Name "'"서울한강체"'".\n
+\n
+디자인하우스체\n
+Copyright © Designhouse inc. (designhouse.co.kr), with Reserved Font Name "'"designhouse"'".\n
+\n
+미생체\n
+Copyright © 윤태호, with Reserved Font Name "'"미생체"'".\n
+\n
+더페이스샵 잉크립퀴드체\n
+Copyright © 더페이스샵 (thefaceshop.com), with Reserved Font Name "'"더페이스샵 잉크립퀴드체"'".\n
+\n
+-\n
+\n
+Beon\n
+Nemoy\n
+Copyright © Bastien Sozeau (sozoo.fr), with Reserved Font Name "'"Beon"'".\n
+\n
+BPpong\n
+BPneon\n
+Copyright © George Triantafyllakos (backpacker.gr), with Reserved Font Name "'"BPpong"'".\n
+\n
+Bravo SCT\n
+Copyright © Michael Chereda (behance.net/mchereda), with Reserved Font Name "'"Bravo"'".\n
+\n
+LIBRARY 3 AM\n
+Copyright © Igor Kosinsky (vk.com/design_89), with Reserved Font Name "'"LIBRARY 3 AM"'".\n
+\n
+Marquee Moon\n
+Axaxax\n
+Copyright © Raymond Larabie (typodermicfonts.com), with Reserved Font Name "'"Marquee Moon"'".\n
+\n
+Potra\n
+Copyright © Alejo Bergmann (designals.net), with Reserved Font Name "'"Potra"'".\n
+\n
+TR2N\n
+Copyright © Jeff Bell (randombell.com),  with Reserved Font Name "'"TR2N"'".\n
+\n
+Nanosecond\n
+techno overload\n
+Whatever\n
+Unanimous\n
+Copyright © Brian Kent (aenigmafonts.com), with Reserved Font Name "'"Nanosecond"'".\n
+\n
+lerotica\n
+La chata\n
+Copyright © Fernando Haro (defharo.com), with Reserved Font Name "'"lerotica"'".\n
+\n
+Ya"'"ahowu\n
+Copyright © Situjuh Nazara (c7n1.wordpress.com), with Reserved Font Name "'"Ya"'"ahowu"'".\n
+\n
+Marske\n
+Copyright © Kash Singh (facebook.com/kashpal.bhogal), with Reserved Font Name "'"Marske"'".\n
+\n
+Clip\n
+Copyright © Martín Argüello (facebook.com/queguanaco),  with Reserved Font Name "'"Clip"'".\n
+\n
+Fabiolo\n
+Copyright © Fabien Despinoy (fabiendespinoy.free.fr), with Reserved Font Name "'"Fabiolo"'".\n
+\n
+Capsuula\n
+Copyright © Henrich Fichna, with Reserved Font Name "'"Capsuula"'".\n
+\n
+ikan_besar\n
+Copyright © Adien Gunarta (naraaksara.com), with Reserved Font Name "'"Ikan Besar"'".\n
+\n
+Engine-Regular\n
+Copyright © Ferdie Balderas (behance.net/indieferdie), with Reserved Font Name "'"Engine"'".\n
+\n
+Sanlabello\n
+Copyright © Eva Barabasne Olasz (fontspace.com/eva-barabasne-olasz), with Reserved Font Name "'"Sanlabello"'".\n
+\n
+Catatan Perjalanan\n
+Copyright © Adien Gunarta, with Reserved Font Name "'"Catatan Perjalanan"'".\n
+\n
+Gruenewals VA\n
+Imrans School\n
+Helvetica Verbundene\n
+Copyright © Peter Wiegel (peter-wiegel.de), with Reserved Font Name "'"Imrans School"'".\n
+\n
+Rhesmanisa\n
+Copyright © Dharma Sahestya (dharmasahestya@gmail.com), with Reserved Font Name "'"Rhesmanisa"'".\n
+\n
+Neoneon\n
+Copyright © Bakoom Studio (bakoom-studio.com), with Reserved Font Name "'"Neoneon"'".\n
+\n
+Riviera\n
+Copyright © Johann Darcel (johanndarcel.com), with Reserved Font Name "'"Riviera"'".\n
+\n
+Klaxons\n
+Copyright © Mark White (behance.net/mrkjhnwht), with Reserved Font Name "'"Klaxons"'".\n
+
+]]></string>
+
+    <string-array name="pexel_name">
+        <item>Popular</item>
+        <item>New</item>
+        <item>Christmas</item>
+        <item>Landscape</item>
+        <item>Desert</item>
+        <item>Forest</item>
+        <item>Mountains</item>
+        <item>River</item>
+        <item>Sea</item>
+        <item>Nature</item>
+        <item>Sunset</item>
+        <item>Night</item>
+        <item>Winter</item>
+        <item>Road</item>
+        <item>Room</item>
+        <item>Texture</item>
+        <item>Wall</item>
+        <item>Blur</item>
+        <item>Abstract</item>
+        <item>Wood</item>
+    </string-array>
+
+    <string-array name="pexel_key"  translatable="false" >
+        <item>popular</item>
+        <item>new</item>
+        <item>christmas</item>
+        <item>landscape</item>
+        <item>desert</item>
+        <item>forest</item>
+        <item>mountains</item>
+        <item>river</item>
+        <item>sea</item>
+        <item>nature</item>
+        <item>sunset</item>
+        <item>night</item>
+        <item>winter</item>
+        <item>road</item>
+        <item>room</item>
+        <item>texture</item>
+        <item>wall</item>
+        <item>blur</item>
+        <item>abstract</item>
+        <item>wood</item>
+    </string-array>
+    
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-9256593771186153~3608282492</string>
+    <string name="admob_interstitial_id"  translatable="false" >ca-app-pub-9256593771186153/4179128137</string>
+    <string name="admob_banner_id" translatable="false" >ca-app-pub-9256593771186153/9782808607</string>
+    <string name="admob_reward_id" translatable="false" >ca-app-pub-9256593771186153/9814720894</string>
+    <string name="admob_feed_id" translatable="false">ca-app-pub-9256593771186153/5374604350</string>
+
+    <string-array name="topics">
+        <item>Topic Sample 1</item>
+        <item>Topic Sample 2</item>
+        <item>Topic Sample 3</item>
+        <item>Topic Sample 4</item>
+        <item>Topic Sample 5</item>
+        <item>Topic Sample 6</item>
+        <item>Topic Sample 7</item>
+        <item>Topic Sample 8</item>
+        <item>Topic Sample 9</item>
+        <item>Topic Sample 10</item>
+    </string-array>
+
+    <string-array name="topic_1">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_2">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_3">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_4">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_5">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_6">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_7">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+
+    <string-array name="topic_8">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+
+    <string-array name="topic_9">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+    </string-array>
+
+    <string-array name="topic_10">
+        <item>Sentences 1</item>
+        <item>Sentences 2</item>
+        <item>Sentences 3</item>
+        <item>Sentences 4</item>
+        <item>Sentences 5</item>
+        <item>Sentences 6</item>
+    </string-array>
+
+    <string name="neony_logo">NEONY Logo</string>
+    <string name="info_button">Info</string>
+    <string name="choose_background_text">Choose Background</string>
+    <string name="theme_image_button">Theme Image</string>
+    <string name="your_photo_button">Your Photo</string>
+    <string name="color_button">Color</string>
+    <string name="back_button">Back</string>
+    <string name="close_button">Close</string>
+    <string name="crop_button">Crop</string>
+    <string name="reset_button">Reset</string>
+    <string name="rotate_button">Rotate</string>
+    <string name="protractor_arrow">Protractor Arrow</string>
+    <string name="ratio_button">Ratio</string>
+    <string name="home_button">Home</string>
+    <string name="save_button">Save</string>
+    <string name="done_button">Done</string>
+    <string name="find_text_button">Find Text</string>
+    <string name="background_menu_button">Background Menu</string>
+    <string name="font_menu_button">Font Menu</string>
+    <string name="text_effect_menu_button">Text Effect Menu</string>
+    <string name="neon_effect_menu_button">Neon Effect Menu</string>
+    <string name="sticker_menu_button">Sticker Menu</string>
+    <string name="all_photos_button">All Photos</string>
+    <string name="about_button">About</string>
+    <string name="rating_button">Rating</string>
+    <string name="share_button">Share</string>
+    <string name="neony_insta_button">NEONY Instagram</string>
+    <string name="font_license_button">Font License</string>
+    <string name="sticker_image">Sticker</string>
+    <string name="sticker_title">Sticker Title</string>
+    <string name="sticker_list_image">Sticker List</string>
+    <string name="buy_button">Buy</string>
+    <string name="instagram_share_button">Instagram Share</string>
+    <string name="facebook_share_button">Facebook Share</string>
+    <string name="more_share_button">More Share</string>
+    <string name="search_button">Search</string>
+    <string name="brightness_text">Brightness</string>
+    <string name="view_all_button">View All</string>
+    <string name="neon_color_text">Neon Color</string>
+    <string name="neon_color_button">Neon Color</string>
+    <string name="neon_spread_text">Neon Spread</string>
+    <string name="neon_shadow_text">Neon Shadow</string>
+    <string name="delete_button">Delete</string>
+    <string name="sticker_size_text">Sticker Size</string>
+    <string name="sticker_rotate_text">Sticker Rotate</string>
+    <string name="sticker_preview_image">Sticker Preview</string>
+    <string name="view_button">View</string>
+    <string name="alignment_text">Alignment</string>
+    <string name="size_text">Size</string>
+    <string name="rotate_text">Rotate</string>
+    <string name="letter_spacing_text">Letter Spacing</string>
+    <string name="line_spacing_text">Line Spacing</string>
+    <string name="ads">Ad</string>
+    <string name="seek_bar">Seek bar</string>
+    <string name="alignment_left_button">Alignment Left</string>
+    <string name="alignment_center_button">Alignment Center</string>
+    <string name="alignment_right_button">Alignment Right</string>
+    <string name="value_text">Value</string>
+    <string name="rating_text">Ask Rating</string>
+    
+    <string name="free_try">FREE TRY</string>
+
+    <string name="alert_permission_title">※ About access permission</string>
+    <string name="alert_permission">We will give you the necessary access permissions to use NEONY.\n
+            \n
+            [Essential Access Permission]\n
+            Photo/Media/File: Used to load, edit and save the selected photo\n
+            Storage space: Used when storing necessary information such as font</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="theme_watch_ads">If you watch a short video,\nyou can use for free!</string>
+
+</resources>
+
